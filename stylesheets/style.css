@@ -1,0 +1,136 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+		p { color: #F7F7F7; font-family: sans-serif; font-weight: lighter; font-size: 20px; line-height: 32px; margin-bottom: 21px; -webkit-font-smoothing: antialiased; }
+		h1 { font-family: "Poiret One"; font-size: 60px; color: #F7F7F7; padding-bottom: 0.6em;}
+		h2 { font-family: "Poiret One"; font-size: 40px; color: #F7F7F7; padding-bottom: 0.6em;}
+		a { color: #F7F7F7; font-weight: 500; text-decoration: underline 2px; /* border-bottom: 1px solid rgba(255,255,255,0.5); */ }
+		a:hover { /* border-bottom: 1px solid rgba(255,255,255,1);  */ text-decoration: none;-webkit-transition: 0.09s linear; -moz-transition: 0.09s linear; }
+		body {border: 0px; margin: 0px,}
+		em {	
+		font-style: italic;
+}
+ul {
+		list-style-type: none; font-weight: 100;
+
+}
+ul a { font-family: sans-serif; font-weight: lighter; font-size: 20px; 
+}
+.post-list {
+		margin-top: 1em;
+}
+
+		#visibility { 		background-color: 
+							/* rgba(233,93,34,0.5); */ 	/* orange, ‘scarf’ colour */
+							/* rgba(1,120,144,0.4);	*/	/* blue/cyan */
+							/* rgba(70,90,170,0.38); */		/* more blue/violet */
+							 /*rgba(28, 121, 165, 0.38) ;		/* another one */
+							/* rgba(160,38,0,0.52); 	*/		/* new take on orange */
+							/* rgba(35, 177, 0, 0.47);	*/		/* good green*/
+							/* rgba(54, 201, 18, 0.54);	*/			/* good green II */
+							/* rgba(111,14,146,0.3); */ 	/* violet */
+							/* rgba(71,4,95,0.3);*/  	/* violet II */
+							/* rgba(90,35,110,0.3); */  	/* violet III */						
+							  /* rgba(10,171,29,0.5);  */	/* green */
+							  /*rgba(185,30,30,0.7); /*rot*/
+							  rgba(28,28,28,0.7); 
+							/* textblock background colour, isolated */ 
+							/* -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; border-radius: 10px; */
+							 /*-webkit-border-radius: 25px;
+							-moz-border-radius: 25px; */
+max-width: 100%;
+
+							padding: 20px 20px 15px 20px;  
+							 margin: 7em 0px 3em 0px;
+		text-align: center;
+							/* position:absolute; bottom:0;
+							margin: auto auto 190px 0px; */
+}
+#visibilitybg { 		background-color: 
+							/* rgba(233,93,34,0.5); */ 	/* orange, ‘scarf’ colour */
+							/* rgba(1,120,144,0.4);	*/	/* blue/cyan */
+							/* rgba(70,90,170,0.38); */		/* more blue/violet */
+							 /*rgba(28, 121, 165, 0.38) ;		/* another one */
+							/* rgba(160,38,0,0.52); 	*/		/* new take on orange */
+							/* rgba(35, 177, 0, 0.47);	*/		/* good green*/
+							/* rgba(54, 201, 18, 0.54);	*/			/* good green II */
+							/* rgba(111,14,146,0.3); */ 	/* violet */
+							/* rgba(71,4,95,0.3);*/  	/* violet II */
+							/* rgba(90,35,110,0.3); */  	/* violet III */						
+							  /* rgba(10,171,29,0.5);  */	/* green */
+							  /*rgba(185,30,30,0.7); /*rot*/
+							  rgba(28,28,28,0.7); 
+							/* textblock background colour, isolated */ 
+							/* -moz-border-radius: 10px; -webkit-border-radius: 10px; -khtml-border-radius: 10px; border-radius: 10px; */
+							 /*-webkit-border-radius: 25px;
+							-moz-border-radius: 25px; */
+width: auto;
+height: auto;
+
+							padding: 30px 20px 15px 20px;  
+
+		text-align: center;
+							/* position:absolute; bottom:0;
+							margin: auto auto 190px 0px; */
+}
+
+.previous {
+		float: right;
+		padding-bottom: 3em;
+		margin-right: 1em;
+}
+.next {
+		float: left;
+		padding-bottom: 2em;
+				margin-left: 1em;
+}
+.previouspost a {text-decoration: none;}
+.nextpost a {text-decoration: none;}
+.previouspost {
+		float: right;
+		margin-bottom: 3em;
+				padding-bottom: 1em;
+		margin-right: 1em;
+}
+.nextpost {
+		float: left;
+		margin-bottom: 3em;
+						padding-bottom: 1em;
+				margin-left: 1em;
+}
+
+
+@media (max-width: 767px) {
+			/* #monogram { position: relative; width: auto; padding: 20px; margin: 0; } */
+			#visibility { 	/*background-color: rgba(28, 121, 165,0.74); /* background colour narrow page whole height, works in combination w body bg colour */ 
+							position: absolute; 
+							width: 100%; 
+							min-height: 100%; 
+							margin: 0; 
+							padding: 20px 12px 1px 12px;  
+							-webkit-border-radius: 0px; 
+							-webkit-border-radius: 0px; 
+							-khtml-border-radius: 0px; 
+							border-radius: 0px;
+}
