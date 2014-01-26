@@ -18,13 +18,13 @@ After *The Godfather*, Francis Ford Coppola was finally able to make this movie.
 
 <a href="http://en.wikipedia.org/wiki/BYOB_(beverage)">BYOB</a>
 
-[All the Movies!](http://movie.timmschoof.com/allthemovies/)
+[All the Movies!](http://notatort.com/allthemovies/)
 
 <!--include jquery & backstretch-->
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 
-<script type="text/javascript" src="http://movie.timmschoof.com/jquery.backstretch.min.js"></script>
+<script type="text/javascript" src="http://notatort.com/jquery.backstretch.min.js"></script>
 
 <script type="text/javascript">
 
@@ -34,7 +34,7 @@ $(function(){
      
          if($(this).width() >= 767){
          
-             $.backstretch("http://movie.timmschoof.com/bg41.jpg", {speed: 150});
+             $.backstretch("http://notatort.com/bg41.jpg", {speed: 150});
              
          }
          

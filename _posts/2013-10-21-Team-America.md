@@ -18,13 +18,13 @@ After many, many serious and legit movies, here's a ridiculously fun one. When *
 
 <a href="http://en.wikipedia.org/wiki/BYOB_(beverage)">BYOB</a> - <a href="webcal://p09-calendarws.icloud.com/ca/subscribe/1/njhFKcFiNF5cQxQ-plsJccGfbuvf1pXvgKeMqimgE4ZFRgZps-DrReteg83YbLJaRhjuvwVD1DJ3eqmzmueLudNx8k_GF1p4khyUtrXpRxo">#notatort Calendar</a>
 
-[All the Movies!](http://movie.timmschoof.com/allthemovies/)
+[All the Movies!](http://notatort.com/allthemovies/)
 
 <!--include jquery & backstretch-->
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 
-<script type="text/javascript" src="http://movie.timmschoof.com/jquery.backstretch.min.js"></script>
+<script type="text/javascript" src="http://notatort.com/jquery.backstretch.min.js"></script>
 
 <script type="text/javascript">
 
@@ -34,7 +34,7 @@ $(function(){
      
          if($(this).width() >= 767){
          
-             $.backstretch("http://movie.timmschoof.com/bg43.jpg", {speed: 150});
+             $.backstretch("http://notatort.com/bg43.jpg", {speed: 150});
              
          }
          

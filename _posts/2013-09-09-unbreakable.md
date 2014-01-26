@@ -16,13 +16,13 @@ permalink: /2013/37/
 
 [BYOB](http://cl.ly/143x3o3z2u3c)
 
-[All the Movies!](http://movie.timmschoof.com/allthemovies/)
+[All the Movies!](http://notatort.com/allthemovies/)
 
 <!--include jquery & backstretch-->
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 
-<script type="text/javascript" src="http://movie.timmschoof.com/jquery.backstretch.min.js"></script>
+<script type="text/javascript" src="http://notatort.com/jquery.backstretch.min.js"></script>
 
 <script type="text/javascript">
 
@@ -32,7 +32,7 @@ $(function(){
      
          if($(this).width() >= 767){
          
-             $.backstretch("http://movie.timmschoof.com/bg37.jpg", {speed: 150});
+             $.backstretch("http://notatort.com/bg37.jpg", {speed: 150});
              
          }
          

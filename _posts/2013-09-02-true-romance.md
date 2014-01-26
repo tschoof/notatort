@@ -18,13 +18,13 @@ We’re talking about a “romantic crime film” directed by Tony Scott and wri
 
 [BYOB](http://cl.ly/2J00401c0V0J)
 
-[All the Movies!](http://movie.timmschoof.com/allthemovies/)
+[All the Movies!](http://notatort.com/allthemovies/)
 
 <!--include jquery & backstretch-->
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 
-<script type="text/javascript" src="http://movie.timmschoof.com/jquery.backstretch.min.js"></script>
+<script type="text/javascript" src="http://notatort.com/jquery.backstretch.min.js"></script>
 
 <script type="text/javascript">
 
@@ -34,7 +34,7 @@ $(function(){
      
          if($(this).width() >= 767){
          
-             $.backstretch("http://movie.timmschoof.com/bg36.jpg", {speed: 150});
+             $.backstretch("http://notatort.com/bg36.jpg", {speed: 150});
              
          }
          
