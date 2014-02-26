@@ -10,7 +10,7 @@ permalink: /2014/09/
 ## \#notatort CW 09
 # The Master \(2012\)
 
-Test
+I haven't seen *There Will Be Blood* yet, but I was intrigued by *Magnolia*, and *Punch-Drunk Love* was fun. But, even forgetting about Paul Thomas Anderson directing, Joaquin Phoenix and Philip Seymour Hoffman (one of hist last apperances) together in one film should be a delight anyway.
 
 
 <a href="http://en.wikipedia.org/wiki/The_Master_(2012_film)">Wikipedia</a> - [IMDb](http://www.imdb.com/title/tt1560747/) - [themoviedb](https://www.themoviedb.org/movie/68722-the-master)
