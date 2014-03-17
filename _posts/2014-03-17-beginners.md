@@ -10,7 +10,7 @@ permalink: /2014/12/
 ## \#notatort CW 12
 # Beginners \(2011\)
 
-One of the cutest movies ever made? Also: Mélanie Laurent (and Ewan McGregor and Christopher Plummer). 
+One of the cutest movies ever made? Also: Mélanie Laurent (and Ewan McGregor and Christopher Plummer)
 
 Okay, real description: It's a nice little movie about a guy and a girl meeting, and the guy's father coming out as gay and re-discovering life.
 
