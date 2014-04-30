@@ -12,7 +12,7 @@ permalink: /2014/18/
 
 Yes, this is a children's movie. It tanked at the box office, but is now considered a classic. 
 
-It's set in the cold war, and it's made by Brad Bird, who went on to make *The Incredibles* (among other, lesser things like *Mission Impossible 4*). We may also witness Vin Diesel's greatest contribution to film and society – he's the voice of the Iron Giant himself.
+It's set in the cold war, and it's made by Brad Bird, who went on to make *The Incredibles*. We may also witness Vin Diesel's greatest contribution to film and society – he's the voice of the Iron Giant himself.
 
 After this, #notatort is going on Hiatus!
 
