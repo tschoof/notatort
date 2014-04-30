@@ -10,9 +10,11 @@ permalink: /2014/18/
 ## \#notatort CW 18
 # The Iron Giant \(1999\)
 
-Yes, this is a children's movie. It tanked at the box office, but is now considered a classic. It's set in the cold war, and it's made by Brad Bird, who went on to make *The Incredibles*. We may also witness Vin Diesel's greatest contribution to film and society – he's the voice of the Iron Giant himself.
+Yes, this is a children's movie. It tanked at the box office, but is now considered a classic. It's set in the cold war, and it's made by Brad Bird, who went on to make *The Incredibles*.  
 
-The second half of [this *The Incomparable* episode](http://5by5.tv/incomparable/74) is all about this movie.
+We may also witness Vin Diesel's greatest contribution to film and society – he's the voice of the Iron Giant himself.
+
+Interested in more? [Check out this episode of *The Incomparable*](http://5by5.tv/incomparable/74).
 
 After this, #notatort is going on Hiatus!
 
