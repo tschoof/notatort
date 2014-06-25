@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: The Lego Movie (2014)
@@ -13,7 +12,8 @@ permalink: /2014/26/
 
 \#notatort is back!
 
-A "Lego" movie? Yes! It may not pass the [Bechdel Test](http://en.wikipedia.org/wiki/Bechdel_test), but everyhting else about it seems to be pretty awesome. I can't wait!
+A "Lego" movie? Why not!  
+It may not pass the [Bechdel Test](http://en.wikipedia.org/wiki/Bechdel_test), but everyhting else about it seems to be pretty awesome. I can't wait!
 
 [Wikipedia](http://en.wikipedia.org/wiki/The_lego_movie) - [IMDb](http://www.imdb.com/title/tt1490017/?ref_=fn_al_tt_1) - [themoviedb](http://www.themoviedb.org/movie/137106-the-lego-movie)
 
