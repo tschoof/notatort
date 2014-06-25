@@ -10,7 +10,7 @@ permalink: /2014/26/
 ## \#notatort CW 26
 # The Lego Movie \(2014\)
 
-\#notatort is back – bigger and better!!
+\#notatort is back – bigger and better!
 
 A "Lego" movie? Well, either it's brilliant or it's crap. Let's find out!
 
