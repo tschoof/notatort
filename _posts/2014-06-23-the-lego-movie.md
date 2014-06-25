@@ -12,7 +12,7 @@ permalink: /2014/26/
 
 Whoop, \#notatort is back!
 
-A "Lego" movie? Well, either it's brilliant, or it's crap. Let's find out!
+A "Lego" movie? Well, either it's brilliant or it's crap. Let's find out!
 
 [Wikipedia](http://en.wikipedia.org/wiki/The_lego_movie) - [IMDb](http://www.imdb.com/title/tt1490017/?ref_=fn_al_tt_1) - [themoviedb](http://www.themoviedb.org/movie/137106-the-lego-movie)
 
