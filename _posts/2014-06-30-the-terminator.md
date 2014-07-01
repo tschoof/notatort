@@ -34,7 +34,7 @@ $(function(){
      
          if($(this).width() >= 767){
          
-             $.backstretch("http://notatort.com/term2.gif", {speed: 150});
+             $.backstretch("http://notatort.com/term4.gif", {speed: 150});
              
          }
          
