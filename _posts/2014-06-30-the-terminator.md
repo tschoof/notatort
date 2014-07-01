@@ -10,7 +10,7 @@ permalink: /2014/27/
 ## \#notatort CW 27
 # The Terminator \(1984\)
 
-There is so much more to *The Terminator* than "I'll be back". What better opportunity to check it out than its upcoming 30-year-anniversary?
+There is so much more to *The Terminator* than "I'll be back". What better opportunity to check it out (again) than its upcoming 30-year-anniversary?
 
 There's the special effects, the SciFi and horror element, the 80s context (phone books!), all of it topped with the struggle of man vs. its own creation. 
 
