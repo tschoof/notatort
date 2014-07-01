@@ -10,9 +10,9 @@ permalink: /2014/27/
 ## \#notatort CW 27
 # The Terminator \(1984\)
 
-There's so much more to *The Terminator* than "I'll be back" and "Come with me if you wanna live". What better opportunity to check it out than its upcoming 30-year-annniversary?
+There is so much more to *The Terminator* than "I'll be back". What better opportunity to check it out than its upcoming 30-year-annniversary?
 
-There's the special effects, the SciFi and horror element, all of it in the 80s context, all topped with the struggle of man vs. machine. 
+There's the special effects, the SciFi and horror element, all of it in the 80s context (phone books!), all topped with the struggle of man vs. machine. 
 
 [Wikipedia](http://en.wikipedia.org/wiki/The_Terminator) - [IMDb](http://www.imdb.com/title/tt0088247/?ref_=fn_al_tt_1) - [themoviedb](http://www.themoviedb.org/movie/218-the-terminator)
 
