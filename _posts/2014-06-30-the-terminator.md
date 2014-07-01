@@ -12,7 +12,7 @@ permalink: /2014/27/
 
 There is so much more to *The Terminator* than "I'll be back". What better opportunity to check it out than its upcoming 30-year-annniversary?
 
-There's the special effects, the SciFi and horror element, all of it in the 80s context (phone books!), all topped with the struggle of man vs. machine. 
+There's the special effects, the SciFi and horror element, all of it in the 80s context (phone books!), all topped with the struggle of man vs. its own creation. 
 
 [Wikipedia](http://en.wikipedia.org/wiki/The_Terminator) - [IMDb](http://www.imdb.com/title/tt0088247/?ref_=fn_al_tt_1) - [themoviedb](http://www.themoviedb.org/movie/218-the-terminator)
 
@@ -34,7 +34,7 @@ $(function(){
      
          if($(this).width() >= 767){
          
-             $.backstretch("http://notatort.com/term4.gif", {speed: 150});
+             $.backstretch("http://notatort.com/term5.gif", {speed: 150});
              
          }
          
