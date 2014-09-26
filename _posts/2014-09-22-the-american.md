@@ -12,7 +12,8 @@ permalink: /2014/39/
 
 If you either like yourself some George Clooney from time to time (*and who doesn't*?) or appreciate the Italian countryside even the tiniest bit, this movie definitely is for you.
 
-For everybody else, this is "just" an atmospheric and beautifully shot thriller.
+For everybody else, this is "just" an atmospheric and beautifully shot thriller. 
+Directed by Anton Corbjin, whose *A Most Wanted Man* is running in cinemas right now and which I really liked.
 
 <a href="http://en.wikipedia.org/wiki/The_American_(2010_film)">Wikipedia</a> - [IMDb](http://www.imdb.com/title/tt1440728/?ref_=fn_al_tt_1) - [themoviedb](https://www.themoviedb.org/movie/27579-the-american)
 
