@@ -12,8 +12,9 @@ permalink: /2015/11/
 
 Batman, before it got all gritty and dark and... [*I am Batman!*](http://giphy.com/gifs/sheldon-cooper-big-bang-theory-5ovKWTsun67Vm)
 
-Let's take a look at what Joel Schumacher und Tim Burton did with superhero movies back in the 80s and 90s and Michael Keaton as our not-so-dark hero.  
-*Batman Returns* is the second film in the "original" film series. It received a "parental backlash" for violence and sexual innuendos. Yes please!
+Let's take a look at what Joel Schumacher und Tim Burton did with superhero movies back in the 80s/90s, and Michael Keaton as our not-so-dark hero.
+
+*Batman Returns* is the second film in the "original" film series. It received a "parental backlash" for violence and sexual innuendos. [Nanananana, Batman](https://www.youtube.com/watch?v=EtoMN_xi-AM)!
 
 [Wikipedia](http://en.wikipedia.org/wiki/Batman_Returns) - [IMDb](http://www.imdb.com/title/tt0103776/?ref_=fn_al_tt_1) - [themoviedb](https://www.themoviedb.org/movie/364-batman-returns)
 
