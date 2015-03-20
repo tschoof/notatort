@@ -10,7 +10,8 @@ permalink: /2015/12/
 ## \#notatort15 CW 12
 # Safety Not Guaranteed \(2012\)
 
-So, *Safety Not Guaranteed* is what could be called a "fun little movie". It is very indie, very light-hearted, comes across as modest, but also just works really, really well. Bonus: *Park & Rec*'s Aubrey Plaza, and *New Girl*'s Jake M. Johnson. 
+So, *Safety Not Guaranteed* is what could be called a "fun little movie". It's a comedy, but also a good movie. It is very indie, very light-hearted, comes across as modest, but also just works really, really well.  
+Bonus: *Park & Rec*'s Aubrey Plaza, and *New Girl*'s Jake M. Johnson. 
 
 [Wikipedia](http://en.wikipedia.org/wiki/Safety_Not_Guaranteed) - [IMDb](http://www.imdb.com/title/tt1862079/?ref_=fn_al_tt_1) - [themoviedb](http://www.imdb.com/title/tt1862079/?ref_=fn_al_tt_1)
 
