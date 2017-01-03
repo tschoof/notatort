@@ -1,3 +1,4 @@
+markdown: kramdown
 auto: true
 title: "#notatort"
 url: http://notatort.com
