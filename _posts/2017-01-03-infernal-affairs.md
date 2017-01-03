@@ -14,7 +14,7 @@ permalink: /2017/01/
 
 After a rather long hiatus, we'll check out a movie that was remade by Martin Scorsese as *The Departed*, a small Oscar-winning production you might have heard of. 
 
-The mafia has a mole in the police, the police has a mole in the mafia, that's the setting of this critically acclaimed Crime-Thriller.  
+The mafia has a mole in the police, the police has a mole in the mafia, that's the setting of this critically acclaimed Crime-Thriller from Hong Kong.  
 We're gonna watch it in Chinese audio with English subtitles.
 
 [Wikipedia](https://en.wikipedia.org/wiki/Infernal_Affairs) - [IMDb](http://www.imdb.com/title/tt0338564/) - [themoviedb](https://www.themoviedb.org/movie/10775)
