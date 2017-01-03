@@ -8,6 +8,7 @@ permalink: /2016/01/
 ---
 
 ## \#notatort16 CW 01
+
 # Infernal Affairs \(2002\)
 
 After a rather long hiatus, we'll check out a movie that was remade by Martin Scorsese as *The Departed*, a small Oscar-winning production you might have heard of. 
