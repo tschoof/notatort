@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Infernal Affairs (2002)
-date: 2016-01-03 13:00:00
+date: 2017-01-03 13:00:00
 category: movies
 published: true
-permalink: /2016/01/
+permalink: /2017/01/
 ---
 
 
-## \#notatort16 CW 01
+## \#notatort17 CW 01
 
 # Infernal Affairs \(2002\)
 
@@ -37,7 +37,7 @@ $(function(){
      
          if($(this).width() >= 767){
          
-             $.backstretch("http://notatort.com/bg1601.jpg", {speed: 150});
+             $.backstretch("http://notatort.com/bg1701.jpg", {speed: 150});
              
          }
          
