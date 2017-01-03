@@ -8,6 +8,7 @@ permalink: /2014/27/
 ---
 
 ## \#notatort CW 27
+
 # The Terminator \(1984\)
 
 There is so much more to *The Terminator* than "I'll be back". What better opportunity to check it out (again) than its upcoming 30-year-anniversary?

@@ -8,6 +8,7 @@ permalink: /2013/41/
 ---
 
 ## \#notatort CW 41
+
 # The Conversation \(1974\)
 
 After *The Godfather*, Francis Ford Coppola was finally able to make this movie. Some consider it his best work. Gene Hackman is starring as a surveillance expert who is obsessed with his own privacy. [Insert some NSA joke here.]

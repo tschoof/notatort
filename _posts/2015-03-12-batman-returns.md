@@ -8,6 +8,7 @@ permalink: /2015/11/
 ---
 
 ## \#notatort15 CW 11
+
 # Batman Returns \(1992\)
 
 Batman, before it got all gritty and dark and... [*I am Batman!*](http://giphy.com/gifs/sheldon-cooper-big-bang-theory-5ovKWTsun67Vm)

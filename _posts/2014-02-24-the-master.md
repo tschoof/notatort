@@ -8,6 +8,7 @@ permalink: /2014/09/
 ---
 
 ## \#notatort CW 09
+
 # The Master \(2012\)
 
 I haven't seen *There Will Be Blood* yet, but I was intrigued by *Magnolia*, and *Punch-Drunk Love* was fun. But even forgetting about Paul Thomas Anderson directing, Joaquin Phoenix and Philip Seymour Hoffman (one of hist last appearances) together in one film sure are a delight anyway.

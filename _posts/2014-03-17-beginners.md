@@ -8,6 +8,7 @@ permalink: /2014/12/
 ---
 
 ## \#notatort CW 12
+
 # Beginners \(2011\)
 
 One of the cutest movies ever made? Also: Mélanie Laurent (and Ewan McGregor and Christopher Plummer)

@@ -8,6 +8,7 @@ permalink: /2014/10/
 ---
 
 ## \#notatort CW 10
+
 # High Fidelity \(2000\)
 
 The book is the only book I've read more than once, I think. The movie has great actors, great humour and a great soundtrack. Just lovely.

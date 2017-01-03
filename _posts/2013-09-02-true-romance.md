@@ -8,6 +8,7 @@ permalink: /2013/36/
 ---
 
 ## \#notatort CW 36
+
 #True Romance \(1993\)
 
 I came across this movie in an obituary of James Gandolfini, famous for his role as Tony Soprano. That obituary also mentioned that it was written by Quentin Tarantino, and I was intrigued.

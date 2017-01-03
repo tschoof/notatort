@@ -8,6 +8,7 @@ permalink: /2013/39/
 ---
 
 ## \#notatort CW 39
+
 # Total Recall \(1990\)
 
 After last week's [letdown](http://notatort.com/2013/38/), it's gotta be something good. Let's cross this SciFi classic off the list! (there's also a 2012 *Total Recall*, don't be confused)

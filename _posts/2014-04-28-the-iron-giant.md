@@ -8,6 +8,7 @@ permalink: /2014/18/
 ---
 
 ## \#notatort CW 18
+
 # The Iron Giant \(1999\)
 
 Yes, this is a children's movie. It tanked at the box office, but is now considered a classic. It's set in the cold war, and it's made by Brad Bird, who went on to make *The Incredibles*.  

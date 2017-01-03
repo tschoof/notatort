@@ -8,6 +8,7 @@ permalink: /2013/40/
 ---
 
 ## \#notatort CW 40
+
 # The Wrestler \(2008\)
 
 Mickey Rourke? The guy who didn't need any make up for *Sin City*? The desperate, aging actor? Yes! Darren Aronofsky, who went on to make *Black Swan*, gives Rourke the part of his life as a desperate, aging wrestler. Drama ensues.

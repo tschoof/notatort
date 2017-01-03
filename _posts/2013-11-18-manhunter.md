@@ -8,6 +8,7 @@ permalink: /2013/47/
 ---
 
 ## \#notatort CW 47
+
 # Manhunter \(1986\)
 
 This adaptation of Harris' novel *Red Dragon*, directed by Michael Mann, predates all of the "Hopkins" Lecktor movies. It flopped at its time, but has now "*been reappraised in more recent reviews and now enjoys a more favorable reception*". Let's see.

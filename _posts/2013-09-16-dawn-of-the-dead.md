@@ -8,6 +8,7 @@ permalink: /2013/38/
 ---
 
 ## \#notatort CW 38
+
 #Dawn of the Dead \(1978\)
 
 This is the “Zombie 101” when it comes to movies. Despite it being the second film of George A. Romero’s *Living Dead* Series, it Is without a doubt the most famous of them.

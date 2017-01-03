@@ -8,6 +8,7 @@ permalink: /2014/39/
 ---
 
 ## \#notatort CW 39
+
 # The American \(2010\)
 
 If you either like yourself some George Clooney from time to time (*and who doesn't*) or appreciate the Italian countryside even the tiniest bit, this movie definitely is for you.

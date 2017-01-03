@@ -8,6 +8,7 @@ permalink: /2013/42/
 ---
 
 ## \#notatort CW 42
+
 # Poltergeist \(1982\)
 
 This first and best part of the *Poltergeist* series is probably one of the scariest movies ever made. A reboot of the whole series will start in 2014, so let's watch this classic before it got cool. 

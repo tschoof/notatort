@@ -8,6 +8,7 @@ permalink: /2014/17/
 ---
 
 ## \#notatort CW 17
+
 # The Taking of Pelham One Two Three \(1974\)
 
 I have no idea when or how I became aware of this movie, but it seems to be a classic Thriller. Walter Matthau and a 100% Rotten Tomatoes rating: We can't really go wrong with this one.
