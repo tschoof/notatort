@@ -12,7 +12,7 @@ permalink: /2017/02/
 
 # Collateral \(2004\)
 
-If you haven't noticed, I'm quite fond of Michael Mann's films. *Collateral* is 20 years younger than [*Manhunter*](http://notatort.com/2013/47/), made when digital cameras were barely able to "see in the dark", as Mann needed them to for this movie. The result is a great essence of big city aesthetic at nighttime.
+If you haven't noticed, I'm quite fond of Michael Mann's films. *Collateral* is 20 years younger than [*Manhunter*](http://notatort.com/2013/47/), but still digital cameras were barely able to "see in the dark", as Mann needed them to for this movie. The result is an interesting essence of big city aesthetic at nighttime.
 
 If you can stand Cruise and maybe even like Foxx, this is a great (taxi) ride.
 
