@@ -14,7 +14,8 @@ permalink: /2017/03/
 
 Wim Wenders, one of those names. To be honest, I didn't know *what* he is famous for, so here we go. You might be familiar with the concept this film from that [remake with Meg Ryan and Nicolas Cage](https://goo.gl/h3sVRi). 
 
-Hitler (Bruno Ganz) and Columbo (Peter Falk) in the same movie, what can go wrong?
+Hitler (Bruno Ganz) and Columbo (Peter Falk) in the same movie, what can go wrong?  
+This might be the first "romantic fantasy film" of #notatort!
 
 [Wikipedia](https://en.wikipedia.org/wiki/Wings_of_Desire) - [IMDb](http://www.imdb.com/title/tt0093191/) - [themoviedb](https://www.themoviedb.org/movie/144-der-himmel-ber-berlin?language=en)
 
