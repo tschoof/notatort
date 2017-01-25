@@ -16,6 +16,8 @@ permalink: /2017/04/
 
 [Wikipedia](https://cl.ly/0m201o380D3f) - [IMDb](http://www.imdb.com/title/tt0465602/) - [themoviedb](https://www.themoviedb.org/movie/4141-shoot-em-up?language=en)
 
+You know how some action movies, or even movies in general take themselves too seriously? Not this one. Clive Owen (yeah!), Paul Giamatto (yes!), and Monica Belluci (rawr!) in a sweet action movie that is not a comedy, but damn funny.
+
 <a href="http://en.wikipedia.org/wiki/BYOB_(beverage)">BYOB</a>
 
 [All the Movies!](http://notatort.com/allthemovies/)
