@@ -16,7 +16,9 @@ permalink: /2017/14/
 
 [Wikipedia](https://goo.gl/f7Mo6x) - [IMDb](http://www.imdb.com/title/tt1226774/) - [themoviedb](https://www.themoviedb.org/movie/19833-in-the-loop)
 
-This political comedy from the UK satirizes the invasion of Iraq, and is a spin-off from a BBC show. I don't know much more about it, stumbled upon it after *Sopranos*'s James Gandolfini's death, but haven't watched it. This changes Sunday.
+This political comedy from the UK satirizes the most recent invasion of Iraq, and is a spin-off from a BBC show. War-mongering heads of states are a thing of the past, I know, but maybe there's still a lesson to be had.
+
+I stumbled upon it after *Sopranos*'s James Gandolfini's death, but haven't watched it. This changes Sunday.
 
 <a href="http://en.wikipedia.org/wiki/BYOB_(beverage)">BYOB</a>
 
