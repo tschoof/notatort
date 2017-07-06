@@ -18,7 +18,7 @@ permalink: /2017/14/
 
 This political comedy from the UK satirizes the most recent invasion of Iraq, and is a spin-off from a BBC show. War-mongering heads of states are a thing of the past, I know, but maybe there's still a lesson to be had.
 
-I stumbled upon it after *The Sopranos*' James Gandolfini's death, but haven't watched it. This changes Sunday.
+I stumbled upon it after *The Sopranos*' James Gandolfini's death, but haven't watched it. This changes Sunday
 
 <a href="http://en.wikipedia.org/wiki/BYOB_(beverage)">BYOB</a>
 
